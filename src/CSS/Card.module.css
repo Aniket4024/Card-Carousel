@@ -1,0 +1,133 @@
+/* #00203f */
+
+.card {
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    /* background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    color: white;
+    cursor: pointer;
+}
+
+.card:hover{
+
+    .CIS1 {
+        display: none;
+        transition: all 0.5s;
+    }
+
+    .details{
+        text-align: start;
+        display: block;
+        padding: 0px 20px;
+        overflow: auto;
+        height: 70%;
+        width:85%;
+        margin-top: -50px;
+
+        p{
+            font-size: 13px;
+        }
+
+        h3{
+            font-family: 'Caveat', cursive;
+            position: fixed;
+            bottom: 0;
+            margin-bottom: 45px;
+        }
+    }
+
+    .cardInnerSection{
+        background-color: rgba(0, 32, 63, 0.75);
+        backdrop-filter: blur(9px);
+        transition: all 0.5s;
+        align-items: center;
+    }
+}
+
+.cardS1 {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    color: white;
+    height: 400px;
+    width: 330px;
+    border-radius: 20px;
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+}
+
+.cardInnerSection {
+    /* background: rgba(0, 2, 1, 0.755); */
+    /* background: linear-gradient(0deg, rgba(0, 2, 1, 1) 0%, rgba(0, 1, 0, 0.25) 60%, rgba(0, 0, 0, 0) 100%); */
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+.CIS1 {
+    height: 27%;
+    width: 100%;
+    /* background-color: green; */
+    padding: 10px ;
+    /* bottom: 0; */
+    text-align: start;
+    padding-left: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background: rgb(0,2,1);
+    background: linear-gradient(0deg, rgba(0, 32, 63,1) 0%, rgba(0, 32, 63,0.25) 60%, rgba(0, 32, 63,0) 100%);
+    transition: all 0.3s;
+    
+
+    h1 {
+        margin: 35px 0px 0px 0px;
+        font-family: 'Caveat', cursive;
+    }
+
+    p {
+        margin: 10px 2px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+}
+
+.details{
+    display: none;
+}
+.socialIcons {
+    height:50px;
+    width: 93%;
+    /* background-color: red; */
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 15px;
+    position: fixed;
+    bottom: 0;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-left: -21px;
+    padding-left: 20px;
+    transition: all 0.5s;
+}
+
+.icons {
+    cursor: pointer;
+    font-size: 17px;
+}
+
+
+
+
+

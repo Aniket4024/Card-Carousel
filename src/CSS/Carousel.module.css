@@ -1,0 +1,37 @@
+#ServicesCarousel{
+    width: 82%;
+    margin:auto;
+    height: 400px;
+    /* background-color: green; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+    button{
+        margin-left: 1130px;
+        margin-right: 20px;
+        margin-top: 240px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: white;
+        font-size: 15px;
+        color: #00203f;
+        text-align: center;
+        padding: 7px;
+        border: 3px solid #00203f;
+    }
+    transition: all 0.5s;
+}
+
+
+.Slide{
+    /* background-color: red; */
+    /* height: 400px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+

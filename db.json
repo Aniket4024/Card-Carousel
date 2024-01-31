@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "attributes": {
+                "Name": "Sumit Kanthed",
+                "Designation": "Managing Partner",
+                "Description": "\"Sumit comes with capital markets expertise with coverage extending to Europe and the Middle East. He comes with 14+ years’ experience in structured credit, derivatives, corporate finance and asset management with a focus on emerging markets accompanied by a broad institutional network. He worked at JP Morgan and a Buy side boutique PE, a private equity firm in London He is also an investor in Daksfirst and Co-CEO of Maystone Capital a UK focussed merchant bank. He holds a Bachelor and Masters in engineering from IIT Bombay, an MBA from IIM Lucknow and CFA and FRM certifications\"",
+                "Link": "https://www.linkedin.com/profile/in/sumit-kanthed-21608910/",
+                "ImgLink": "https://www.daksfirst.com/assets/images/sumit.jpg",
+                "createdAt": "2024-01-23T19:18:57.461Z",
+                "updatedAt": "2024-01-23T19:23:37.062Z",
+                "publishedAt": "2024-01-23T19:23:37.057Z"
+            }
+        },
+        {
+            "id": 2,
+            "attributes": {
+                "Name": "Kartik Krishnaswamy",
+                "Designation": "Investor Relations",
+                "Description": "\"Kartik started his career in management consulting in North America and Europe serving a diverse corporate client base for 8 years. In the last decade he has focussed on the asset management business for South Asia at Barclays Investment Management and at Crossbridge Capital, a London based asset management firm. Currently, he runs Maystone Capital as a Co-CEO alongside Sumit covering clients in Developed markets. He holds a BS in Industrial Engg, MS in Applied Mathematics and an MBA from University of Chicago\"",
+                "Link": "https://www.linkedin.com/in/kartik-krishnaswamy-3637/",
+                "ImgLink": "https://www.daksfirst.com/assets/images/kartik.jpg",
+                "createdAt": "2024-01-23T19:25:38.963Z",
+                "updatedAt": "2024-01-23T19:25:41.927Z",
+                "publishedAt": "2024-01-23T19:25:41.924Z"
+            }
+        },
+        {
+            "id": 3,
+            "attributes": {
+                "Name": "Amit Kanthed",
+                "Designation": "Vice President, Investment Team",
+                "Description": "\"Amit is a Chartered Accountant with experience of more than 10+ years’ in the financial services space. Amit has joined Daksfirst in 2021 and has worked on various deals in Infrastructure space. Previously, he has worked with EY and PWC and has led audits of various large NBFCs, MFI, Stock exchange etc. and led a team of 20 people and worked with international teams in India and USA.\"",
+                "Link": "https://www.linkedin.com/profile/in/amit-kanthed-982287b/",
+                "ImgLink": "https://www.daksfirst.com/assets/images/amit.jpeg",
+                "createdAt": "2024-01-23T19:26:43.145Z",
+                "updatedAt": "2024-01-23T19:26:44.694Z",
+                "publishedAt": "2024-01-23T19:26:44.691Z"
+            }
+        },
+        {
+            "id": 4,
+            "attributes": {
+                "Name": "Divesh Jain",
+                "Designation": "Vice President, Investment Team",
+                "Description": "\"Divesh is a Chartered Accountant with an experience of ~ 9 years’ in the financial services space. He has worked with EY in strategy and transaction and audit team. He has worked with large private equity and corporates across various sectors such as Banks, NBFC, Insurance, Fintech, Wealth Management etc. He was part of the core team for performing Financial Due Diligence to address the matters that affects the deal valuation and assisting in developing business model.\"",
+                "Link": "https://www.linkedin.com/profile/in/divesh-jain-a4783537/",
+                "ImgLink": "https://www.daksfirst.com/assets/images/Divesh.jpeg",
+                "createdAt": "2024-01-23T19:27:53.531Z",
+                "updatedAt": "2024-01-23T19:27:55.093Z",
+                "publishedAt": "2024-01-23T19:27:55.089Z"
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 4
+        }
+    }
+}
